@@ -1,0 +1,45 @@
+{
+   "categories": [{
+      "categoryName": "ANTIPASTI",
+      "dishes": [{
+            "dishName": "ZUPPA DEL GIORNO",
+            "description": "Please ask your server",
+            "price": "7.25",
+            "finePrint": ""
+         },
+         {
+            "dishName": "OLIVES",
+            "description": "Marinated black & green olives with crostini",
+            "price": "7.50",
+            "finePrint": ""
+         },
+         {
+            "dishName": "BRUSCHETTA POMODORO",
+            "description": "Grilled baguette topped with olive oil, garlic, tomatoes, basil ",
+            "price": "9.25",
+            "finePrint": ""
+         }
+      ]
+   }, {
+      "categoryName": "INSALATE",
+      "dishes": [{
+            "dishName": "INSALATA ROMA",
+            "description": "Mixed greens, chèvre, toasted walnuts, roasted red peppers, balsamic vinaigrette",
+            "price": "14.75",
+            "finePrint": ""
+         },
+         {
+            "dishName": "INSALATA MISTA",
+            "description": "Mixed greens, cherry tomatoes, cucumber, balsamic vinaigrette",
+            "price": "12.85",
+            "finePrint": ""
+         },
+         {
+            "dishName": "INSALATA CESARE",
+            "description": "Crispy romaine, creamy caesar dressing, shaved parmigiana, croutons ",
+            "price": "12.25",
+            "finePrint": "add anchovies 2.15 / add 4 oz. chicken breast 6.15 / add salmon 10.15"
+         }
+      ]
+   }]
+}

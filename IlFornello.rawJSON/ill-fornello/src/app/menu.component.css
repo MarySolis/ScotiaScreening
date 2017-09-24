@@ -1,0 +1,16 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+	padding-bottom: 0px;
+	margin:0px;
+}
+.fine-print{
+	text-align: left;
+	font-size: 10px;
+	font-style: italic;
+}
+.custom-collapsible-panel-heading{
+	font-size: 20px;
+	font-weight: bold;
+}
+.description{
+	margin-bottom: 0px;
+}

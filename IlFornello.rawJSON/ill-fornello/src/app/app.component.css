@@ -1,0 +1,43 @@
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.custom-padding{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+.text-center{
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.center-aligned{
+	position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    height: 50%;
+    width: 50%;
+}
+
+.jumbotron{
+	border-radius: 0px;
+	padding-top: 110px;
+	background-color: #7884cd; 
+	color:#FFF;
+}
+
+.jumbotron h1{
+	font-size: 40px;
+	margin-bottom: 40px;
+}
+
+.jumbotron p{
+	font-size: 18px;
+	font-weight: 100;	
+}
+.more{
+	font-size: 10px;
+}
+.col-sm-8 > p{
+	margin-bottom: 0px;
+}

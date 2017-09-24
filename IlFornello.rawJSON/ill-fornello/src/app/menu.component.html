@@ -1,0 +1,21 @@
+<div class="container-fluid">
+  <div class="row" *ngFor="let category of menu.categories">
+  	<h4>{{category.categoryName}}</h4>
+    <ul>
+    	<li *ngFor="let dish of category.dishes">
+  			<div class="row ">
+  				<div class="col-sm-3">     
+          <h5>{{dish.dishName}}</h5> 
+          </div>
+          <div class="col-sm-7">     
+            <p class="description">{{dish.description}}</p>   
+            <p class="fine-print">{{dish.finePrint}}</p> 
+          </div>
+          <div class="col-sm-2">     
+            <h4 class="">{{dish.price}}</h4>                    
+          </div>          
+  			</div>  
+    	</li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+#footer{
+	background-color: #afafaf;
+	position: relative;
+	bottom: 0px;   
+}
+#address > span{
+	display: block;
+}
+#address > span > .fa{
+	font-size: 14px;
+}
+.copyright{
+	text-align: center;
+    font-size: 12px;
+}
+#social{
+	text-align: center;
+	margin-top: 30px;
+}
