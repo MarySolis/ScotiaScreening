@@ -1,0 +1,84 @@
+.navigation{
+	background-color: #2f3ba1;
+	color: #FFF;
+}
+#navbar > ul > li > a {
+	color: #fff;
+}
+#address > span{
+	display: block;
+}
+#address > span > .fa{
+	font-size: 14px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.custom-padding{
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+body{
+	padding:0;
+}
+
+#logo{
+	padding-bottom: 5px;
+}
+.section-content {
+  padding-top: 1%;
+  font-weight: bold;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/*.container-custom-jb{
+	margin:0px;
+}*/
+
+#footer{
+	background-color: #afafaf;
+	position: relative;
+	bottom: 0px;
+   
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
